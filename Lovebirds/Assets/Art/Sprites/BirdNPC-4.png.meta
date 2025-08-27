@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: a27bbf9bdf068d0478491935b722ef4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6749531933953306438
+    second: BirdNPC-4_0
+  - first:
+      213: -6788723428819569374
+    second: BirdNPC-4_1
+  - first:
+      213: 2299495723182795596
+    second: BirdNPC-4_2
+  - first:
+      213: 480765050917762866
+    second: BirdNPC-4_3
+  - first:
+      213: 5267594264155919774
+    second: BirdNPC-4_4
+  - first:
+      213: 6390085292744772683
+    second: BirdNPC-4_5
+  - first:
+      213: 398581853438743355
+    second: BirdNPC-4_6
+  - first:
+      213: 6528917814609004829
+    second: BirdNPC-4_7
+  - first:
+      213: 8478960147472004106
+    second: BirdNPC-4_8
+  - first:
+      213: -3784753575209114407
+    second: BirdNPC-4_9
+  - first:
+      213: 2624253605880026830
+    second: BirdNPC-4_10
+  - first:
+      213: 5485199918488049191
+    second: BirdNPC-4_11
+  - first:
+      213: -5824328467718126166
+    second: BirdNPC-4_12
+  - first:
+      213: 3907717870076571920
+    second: BirdNPC-4_13
+  - first:
+      213: -6287428842681055428
+    second: BirdNPC-4_14
+  - first:
+      213: 4422858145112871862
+    second: BirdNPC-4_15
+  - first:
+      213: 4377540679696418241
+    second: BirdNPC-4_16
+  - first:
+      213: 5299001051073464181
+    second: BirdNPC-4_17
+  - first:
+      213: 8825796343712095376
+    second: BirdNPC-4_18
+  - first:
+      213: -7446269020030125844
+    second: BirdNPC-4_19
+  - first:
+      213: -6915530949798492252
+    second: BirdNPC-4_20
+  - first:
+      213: -1396911665123196925
+    second: BirdNPC-4_21
+  - first:
+      213: 158995774983634389
+    second: BirdNPC-4_22
+  - first:
+      213: -8600952389200566972
+    second: BirdNPC-4_23
+  - first:
+      213: -7797583026818967279
+    second: BirdNPC-4_24
+  - first:
+      213: 3564384179580488849
+    second: BirdNPC-4_25
+  - first:
+      213: 1415896083845350331
+    second: BirdNPC-4_26
+  - first:
+      213: 713500308500117184
+    second: BirdNPC-4_27
+  - first:
+      213: 2676566129745572595
+    second: BirdNPC-4_28
+  - first:
+      213: -1159899196900203301
+    second: BirdNPC-4_29
+  - first:
+      213: 5695924594642190898
+    second: BirdNPC-4_30
+  - first:
+      213: 244503982131319251
+    second: BirdNPC-4_31
+  - first:
+      213: -5669530303854436937
+    second: BirdNPC-4_32
+  - first:
+      213: -5081059089053757737
+    second: BirdNPC-4_33
+  - first:
+      213: -6925670950854298033
+    second: BirdNPC-4_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BirdNPC-4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0de847778d452a0800000000000000
+      internalID: -6749531933953306438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1350
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22576da720c99c1a0800000000000000
+      internalID: -6788723428819569374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1350
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b27de4d2379ef10800000000000000
+      internalID: 2299495723182795596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1350
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237306044450ca600800000000000000
+      internalID: 480765050917762866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1350
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9516e703114a1940800000000000000
+      internalID: 5267594264155919774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1125
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c0086b7b42ea850800000000000000
+      internalID: 6390085292744772683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1125
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33122c751c088500800000000000000
+      internalID: 398581853438743355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1125
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d194d7329206b9a50800000000000000
+      internalID: 6528917814609004829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1125
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0433c6a4515ba570800000000000000
+      internalID: 8478960147472004106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_9
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1125
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d465430daad97bc0800000000000000
+      internalID: -3784753575209114407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6540b20c83b6420800000000000000
+      internalID: 2624253605880026830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7265b7793485f1c40800000000000000
+      internalID: 5485199918488049191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa547720e14db2fa0800000000000000
+      internalID: -5824328467718126166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113c58e2b00b3630800000000000000
+      internalID: 3907717870076571920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c374371a7c09eb8a0800000000000000
+      internalID: -6287428842681055428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b35567bc06216d30800000000000000
+      internalID: 4422858145112871862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c580231e0620cc30800000000000000
+      internalID: 4377540679696418241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c7a17165d98940800000000000000
+      internalID: 5299001051073464181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c96e673078b7a70800000000000000
+      internalID: 8825796343712095376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8bb1f37c989a890800000000000000
+      internalID: -7446269020030125844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a78a00cd391700a0800000000000000
+      internalID: -6915530949798492252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3008bb1ed3c2d9ce0800000000000000
+      internalID: -1396911665123196925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddffa0a0ddd43200800000000000000
+      internalID: 158995774983634389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44527af2f5743a880800000000000000
+      internalID: -8600952389200566972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_24
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11917dbec8b69c390800000000000000
+      internalID: -7797583026818967279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ccae2c68c377130800000000000000
+      internalID: 3564384179580488849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3087c8cf546a310800000000000000
+      internalID: 1415896083845350331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6f74310ccd6e900800000000000000
+      internalID: 713500308500117184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b355c6b2152520800000000000000
+      internalID: 2676566129745572595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4a08963d537efe0800000000000000
+      internalID: -1159899196900203301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2320f039d3dfb0f40800000000000000
+      internalID: 5695924594642190898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11b198317a46300800000000000000
+      internalID: 244503982131319251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd91732a38c151b0800000000000000
+      internalID: -5669530303854436937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de4e2adda37c79b0800000000000000
+      internalID: -5081059089053757737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4228923684ec20c41bb1c845b0b8aca9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BirdNPC-4_0: -6749531933953306438
+      BirdNPC-4_1: -6788723428819569374
+      BirdNPC-4_10: 2624253605880026830
+      BirdNPC-4_11: 5485199918488049191
+      BirdNPC-4_12: -5824328467718126166
+      BirdNPC-4_13: 3907717870076571920
+      BirdNPC-4_14: -6287428842681055428
+      BirdNPC-4_15: 4422858145112871862
+      BirdNPC-4_16: 4377540679696418241
+      BirdNPC-4_17: 5299001051073464181
+      BirdNPC-4_18: 8825796343712095376
+      BirdNPC-4_19: -7446269020030125844
+      BirdNPC-4_2: 2299495723182795596
+      BirdNPC-4_20: -6915530949798492252
+      BirdNPC-4_21: -1396911665123196925
+      BirdNPC-4_22: 158995774983634389
+      BirdNPC-4_23: -8600952389200566972
+      BirdNPC-4_24: -7797583026818967279
+      BirdNPC-4_25: 3564384179580488849
+      BirdNPC-4_26: 1415896083845350331
+      BirdNPC-4_27: 713500308500117184
+      BirdNPC-4_28: 2676566129745572595
+      BirdNPC-4_29: -1159899196900203301
+      BirdNPC-4_3: 480765050917762866
+      BirdNPC-4_30: 5695924594642190898
+      BirdNPC-4_31: 244503982131319251
+      BirdNPC-4_32: -5669530303854436937
+      BirdNPC-4_33: -5081059089053757737
+      BirdNPC-4_4: 5267594264155919774
+      BirdNPC-4_5: 6390085292744772683
+      BirdNPC-4_6: 398581853438743355
+      BirdNPC-4_7: 6528917814609004829
+      BirdNPC-4_8: 8478960147472004106
+      BirdNPC-4_9: -3784753575209114407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
