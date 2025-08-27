@@ -15,7 +15,7 @@ public class RandomBird : MonoBehaviour
     }
 
     private void Update()
-    {
+    { 
 
     }
 }
