@@ -3,62 +3,110 @@ guid: a27bbf9bdf068d0478491935b722ef4a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2507224180881438682
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_0
+      213: -6749531933953306438
+    second: BirdNPC-4_0
   - first:
-      213: -7452925628419565921
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_1
+      213: -6788723428819569374
+    second: BirdNPC-4_1
   - first:
-      213: 5915174463682024925
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_2
+      213: 2299495723182795596
+    second: BirdNPC-4_2
   - first:
-      213: -4405799735072798181
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_3
+      213: 480765050917762866
+    second: BirdNPC-4_3
   - first:
-      213: 2531982523643767926
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_4
+      213: 5267594264155919774
+    second: BirdNPC-4_4
   - first:
-      213: -5514947806131519076
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_5
+      213: 6390085292744772683
+    second: BirdNPC-4_5
   - first:
-      213: 1650443727132308960
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_6
+      213: 398581853438743355
+    second: BirdNPC-4_6
   - first:
-      213: 2620281791107772550
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_7
+      213: 6528917814609004829
+    second: BirdNPC-4_7
   - first:
-      213: -5218157180713391673
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_8
+      213: 8478960147472004106
+    second: BirdNPC-4_8
   - first:
-      213: -624421375668181154
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_9
+      213: -3784753575209114407
+    second: BirdNPC-4_9
   - first:
-      213: 4474869390571922380
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_10
+      213: 2624253605880026830
+    second: BirdNPC-4_10
   - first:
-      213: -2214585398041494054
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_11
+      213: 5485199918488049191
+    second: BirdNPC-4_11
   - first:
-      213: 2642185658425506002
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_12
+      213: -5824328467718126166
+    second: BirdNPC-4_12
   - first:
-      213: -2986202835856922292
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_13
+      213: 3907717870076571920
+    second: BirdNPC-4_13
   - first:
-      213: -400133085641694389
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_14
+      213: -6287428842681055428
+    second: BirdNPC-4_14
   - first:
-      213: -6828991548193669781
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_15
+      213: 4422858145112871862
+    second: BirdNPC-4_15
   - first:
-      213: 5944823316124091483
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_16
+      213: 4377540679696418241
+    second: BirdNPC-4_16
   - first:
-      213: 774331806235435835
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_17
+      213: 5299001051073464181
+    second: BirdNPC-4_17
   - first:
-      213: -9112387744590000013
-    second: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_18
+      213: 8825796343712095376
+    second: BirdNPC-4_18
+  - first:
+      213: -7446269020030125844
+    second: BirdNPC-4_19
+  - first:
+      213: -6915530949798492252
+    second: BirdNPC-4_20
+  - first:
+      213: -1396911665123196925
+    second: BirdNPC-4_21
+  - first:
+      213: 158995774983634389
+    second: BirdNPC-4_22
+  - first:
+      213: -8600952389200566972
+    second: BirdNPC-4_23
+  - first:
+      213: -7797583026818967279
+    second: BirdNPC-4_24
+  - first:
+      213: 3564384179580488849
+    second: BirdNPC-4_25
+  - first:
+      213: 1415896083845350331
+    second: BirdNPC-4_26
+  - first:
+      213: 713500308500117184
+    second: BirdNPC-4_27
+  - first:
+      213: 2676566129745572595
+    second: BirdNPC-4_28
+  - first:
+      213: -1159899196900203301
+    second: BirdNPC-4_29
+  - first:
+      213: 5695924594642190898
+    second: BirdNPC-4_30
+  - first:
+      213: 244503982131319251
+    second: BirdNPC-4_31
+  - first:
+      213: -5669530303854436937
+    second: BirdNPC-4_32
+  - first:
+      213: -5081059089053757737
+    second: BirdNPC-4_33
+  - first:
+      213: -6925670950854298033
+    second: BirdNPC-4_34
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -154,13 +202,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_0
+      name: BirdNPC-4_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 738
-        width: 220
-        height: 246
+        y: 1350
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,20 +217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad735b1db137bc220800000000000000
-      internalID: 2507224180881438682
+      spriteID: ab0de847778d452a0800000000000000
+      internalID: -6749531933953306438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_1
+      name: BirdNPC-4_1
       rect:
         serializedVersion: 2
-        x: 220
-        y: 738
-        width: 220
-        height: 246
+        x: 400
+        y: 1350
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,20 +239,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9695a4d0a3e19890800000000000000
-      internalID: -7452925628419565921
+      spriteID: 22576da720c99c1a0800000000000000
+      internalID: -6788723428819569374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_2
+      name: BirdNPC-4_2
       rect:
         serializedVersion: 2
-        x: 440
-        y: 738
-        width: 220
-        height: 246
+        x: 800
+        y: 1350
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,20 +261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd59a34b5dbe61250800000000000000
-      internalID: 5915174463682024925
+      spriteID: c4b27de4d2379ef10800000000000000
+      internalID: 2299495723182795596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_3
+      name: BirdNPC-4_3
       rect:
         serializedVersion: 2
-        x: 660
-        y: 738
-        width: 220
-        height: 246
+        x: 1200
+        y: 1350
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +283,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1ac97fdb747bd2c0800000000000000
-      internalID: -4405799735072798181
+      spriteID: 237306044450ca600800000000000000
+      internalID: 480765050917762866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_4
+      name: BirdNPC-4_4
       rect:
         serializedVersion: 2
-        x: 880
-        y: 738
-        width: 220
-        height: 246
+        x: 1600
+        y: 1350
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,130 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67ca843b0b8632320800000000000000
-      internalID: 2531982523643767926
+      spriteID: e9516e703114a1940800000000000000
+      internalID: 5267594264155919774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 492
-        width: 220
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9106b49038f673b0800000000000000
-      internalID: -5514947806131519076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_6
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 492
-        width: 220
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e53e7d43dd87e610800000000000000
-      internalID: 1650443727132308960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_7
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 492
-        width: 220
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 680376af76c1d5420800000000000000
-      internalID: 2620281791107772550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_8
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 492
-        width: 220
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c9ac6de0b16597b0800000000000000
-      internalID: -5218157180713391673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_9
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 492
-        width: 220
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e572321311c9557f0800000000000000
-      internalID: -624421375668181154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_10
+      name: BirdNPC-4_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 246
-        width: 220
-        height: 246
+        y: 1125
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,20 +327,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cc3ee49700ee91e30800000000000000
-      internalID: 4474869390571922380
+      spriteID: b4c0086b7b42ea850800000000000000
+      internalID: 6390085292744772683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_11
+      name: BirdNPC-4_6
       rect:
         serializedVersion: 2
-        x: 220
-        y: 246
-        width: 220
-        height: 246
+        x: 400
+        y: 1125
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,20 +349,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: add38f850563441e0800000000000000
-      internalID: -2214585398041494054
+      spriteID: b33122c751c088500800000000000000
+      internalID: 398581853438743355
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_12
+      name: BirdNPC-4_7
       rect:
         serializedVersion: 2
-        x: 440
-        y: 246
-        width: 220
-        height: 246
+        x: 800
+        y: 1125
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,20 +371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2d875118bddeaa420800000000000000
-      internalID: 2642185658425506002
+      spriteID: d194d7329206b9a50800000000000000
+      internalID: 6528917814609004829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_13
+      name: BirdNPC-4_8
       rect:
         serializedVersion: 2
-        x: 660
-        y: 246
-        width: 220
-        height: 246
+        x: 1200
+        y: 1125
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,20 +393,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c49eb75a750ee86d0800000000000000
-      internalID: -2986202835856922292
+      spriteID: a0433c6a4515ba570800000000000000
+      internalID: 8478960147472004106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_14
+      name: BirdNPC-4_9
       rect:
         serializedVersion: 2
-        x: 880
-        y: 246
-        width: 220
-        height: 246
+        x: 1600
+        y: 1125
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -477,20 +415,460 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b43227f1411727af0800000000000000
-      internalID: -400133085641694389
+      spriteID: 9d465430daad97bc0800000000000000
+      internalID: -3784753575209114407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_15
+      name: BirdNPC-4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6540b20c83b6420800000000000000
+      internalID: 2624253605880026830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7265b7793485f1c40800000000000000
+      internalID: 5485199918488049191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa547720e14db2fa0800000000000000
+      internalID: -5824328467718126166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113c58e2b00b3630800000000000000
+      internalID: 3907717870076571920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 900
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c374371a7c09eb8a0800000000000000
+      internalID: -6287428842681055428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b35567bc06216d30800000000000000
+      internalID: 4422858145112871862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c580231e0620cc30800000000000000
+      internalID: 4377540679696418241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c7a17165d98940800000000000000
+      internalID: 5299001051073464181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c96e673078b7a70800000000000000
+      internalID: 8825796343712095376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 675
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8bb1f37c989a890800000000000000
+      internalID: -7446269020030125844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a78a00cd391700a0800000000000000
+      internalID: -6915530949798492252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3008bb1ed3c2d9ce0800000000000000
+      internalID: -1396911665123196925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddffa0a0ddd43200800000000000000
+      internalID: 158995774983634389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_23
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44527af2f5743a880800000000000000
+      internalID: -8600952389200566972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_24
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 450
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11917dbec8b69c390800000000000000
+      internalID: -7797583026818967279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ccae2c68c377130800000000000000
+      internalID: 3564384179580488849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3087c8cf546a310800000000000000
+      internalID: 1415896083845350331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6f74310ccd6e900800000000000000
+      internalID: 713500308500117184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2b355c6b2152520800000000000000
+      internalID: 2676566129745572595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 225
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4a08963d537efe0800000000000000
+      internalID: -1159899196900203301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_30
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 220
-        height: 246
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,20 +877,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d75c35e5c8a31a0800000000000000
-      internalID: -6828991548193669781
+      spriteID: 2320f039d3dfb0f40800000000000000
+      internalID: 5695924594642190898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_16
+      name: BirdNPC-4_31
       rect:
         serializedVersion: 2
-        x: 220
+        x: 400
         y: 0
-        width: 220
-        height: 246
+        width: 400
+        height: 225
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -521,8 +899,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b54490a1f41408250800000000000000
-      internalID: 5944823316124091483
+      spriteID: 3d11b198317a46300800000000000000
+      internalID: 244503982131319251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd91732a38c151b0800000000000000
+      internalID: -5669530303854436937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdNPC-4_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de4e2adda37c79b0800000000000000
+      internalID: -5081059089053757737
       vertices: []
       indices: 
       edges: []
@@ -531,7 +953,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: f7ea9ea3801525a478d6e1f17cb10777
+    spriteID: 4228923684ec20c41bb1c845b0b8aca9
     internalID: 0
     vertices: []
     indices: 
@@ -541,23 +963,40 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_0: 2507224180881438682
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_1: -7452925628419565921
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_10: 4474869390571922380
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_11: -2214585398041494054
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_12: 2642185658425506002
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_13: -2986202835856922292
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_14: -400133085641694389
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_15: -6828991548193669781
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_16: 5944823316124091483
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_2: 5915174463682024925
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_3: -4405799735072798181
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_4: 2531982523643767926
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_5: -5514947806131519076
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_6: 1650443727132308960
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_7: 2620281791107772550
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_8: -5218157180713391673
-      dancing-parrot-unscreen-ezgif.com-gif-to-sprite-converter_9: -624421375668181154
+      BirdNPC-4_0: -6749531933953306438
+      BirdNPC-4_1: -6788723428819569374
+      BirdNPC-4_10: 2624253605880026830
+      BirdNPC-4_11: 5485199918488049191
+      BirdNPC-4_12: -5824328467718126166
+      BirdNPC-4_13: 3907717870076571920
+      BirdNPC-4_14: -6287428842681055428
+      BirdNPC-4_15: 4422858145112871862
+      BirdNPC-4_16: 4377540679696418241
+      BirdNPC-4_17: 5299001051073464181
+      BirdNPC-4_18: 8825796343712095376
+      BirdNPC-4_19: -7446269020030125844
+      BirdNPC-4_2: 2299495723182795596
+      BirdNPC-4_20: -6915530949798492252
+      BirdNPC-4_21: -1396911665123196925
+      BirdNPC-4_22: 158995774983634389
+      BirdNPC-4_23: -8600952389200566972
+      BirdNPC-4_24: -7797583026818967279
+      BirdNPC-4_25: 3564384179580488849
+      BirdNPC-4_26: 1415896083845350331
+      BirdNPC-4_27: 713500308500117184
+      BirdNPC-4_28: 2676566129745572595
+      BirdNPC-4_29: -1159899196900203301
+      BirdNPC-4_3: 480765050917762866
+      BirdNPC-4_30: 5695924594642190898
+      BirdNPC-4_31: 244503982131319251
+      BirdNPC-4_32: -5669530303854436937
+      BirdNPC-4_33: -5081059089053757737
+      BirdNPC-4_4: 5267594264155919774
+      BirdNPC-4_5: 6390085292744772683
+      BirdNPC-4_6: 398581853438743355
+      BirdNPC-4_7: 6528917814609004829
+      BirdNPC-4_8: 8478960147472004106
+      BirdNPC-4_9: -3784753575209114407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

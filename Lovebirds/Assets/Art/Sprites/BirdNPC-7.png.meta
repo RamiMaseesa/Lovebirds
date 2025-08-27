@@ -3,110 +3,38 @@ guid: fd8a5ae310cc12742a74037567e78e0e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -464217000069196360
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_0
+      213: -8748124887547550303
+    second: BirdNPC-7_0
   - first:
-      213: 143689367687869534
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_1
+      213: -2833482666357852558
+    second: BirdNPC-7_1
   - first:
-      213: -8961643884892825276
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_2
+      213: -1596228736605456074
+    second: BirdNPC-7_2
   - first:
-      213: 2824316480883322189
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_3
+      213: -2737842678772806653
+    second: BirdNPC-7_3
   - first:
-      213: 3855991444497441450
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_4
+      213: 5474791574490574471
+    second: BirdNPC-7_4
   - first:
-      213: -6150012657620913827
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_5
+      213: -656993467829505450
+    second: BirdNPC-7_5
   - first:
-      213: -9135382801916693174
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_6
+      213: 86144993571201636
+    second: BirdNPC-7_6
   - first:
-      213: 234986177364805774
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_7
+      213: -8965401538745419233
+    second: BirdNPC-7_7
   - first:
-      213: -4049611840903397226
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_8
+      213: 2344318527224385871
+    second: BirdNPC-7_8
   - first:
-      213: 8044149270537406222
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_9
+      213: -5524694431869609122
+    second: BirdNPC-7_9
   - first:
-      213: -6890070052620349249
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_10
-  - first:
-      213: 6150410969974134616
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_11
-  - first:
-      213: 8657678532585400461
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_12
-  - first:
-      213: 5576931808539820393
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_13
-  - first:
-      213: 8011161369352903398
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_14
-  - first:
-      213: -3066097917596215947
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_15
-  - first:
-      213: -2837949635559469964
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_16
-  - first:
-      213: -970590843983501300
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_17
-  - first:
-      213: 6542746221567372607
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_18
-  - first:
-      213: -7429499960027120888
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_19
-  - first:
-      213: 1924360066214358898
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_20
-  - first:
-      213: 5351079004295215169
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_21
-  - first:
-      213: -8488335924012365457
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_22
-  - first:
-      213: -3353452741857499310
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_23
-  - first:
-      213: 4240501041725140077
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_24
-  - first:
-      213: -7597297323641199619
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_25
-  - first:
-      213: -4805937530036355430
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_26
-  - first:
-      213: -7509030323123304590
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_27
-  - first:
-      213: -4323256415496427064
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_28
-  - first:
-      213: 1699048445016011326
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_29
-  - first:
-      213: -878211861317794570
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_30
-  - first:
-      213: 5370253425134765854
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_31
-  - first:
-      213: -9008991874857352734
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_32
-  - first:
-      213: 8396468300904212187
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_33
-  - first:
-      213: 1636013725788158118
-    second: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_34
+      213: -2928534454791225943
+    second: BirdNPC-7_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -202,13 +130,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_0
+      name: BirdNPC-7_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1350
-        width: 400
-        height: 225
+        y: 578
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b59d241915ce89f0800000000000000
-      internalID: -464217000069196360
+      spriteID: 1a569faa3ca689680800000000000000
+      internalID: -8748124887547550303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_1
+      name: BirdNPC-7_1
       rect:
         serializedVersion: 2
-        x: 400
-        y: 1350
-        width: 400
-        height: 225
+        x: 220
+        y: 578
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,20 +167,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e543907f7bc7ef100800000000000000
-      internalID: 143689367687869534
+      spriteID: 276738207827da8d0800000000000000
+      internalID: -2833482666357852558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_2
+      name: BirdNPC-7_2
       rect:
         serializedVersion: 2
-        x: 800
-        y: 1350
-        width: 400
-        height: 225
+        x: 440
+        y: 578
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44959651e58d1a380800000000000000
-      internalID: -8961643884892825276
+      spriteID: 6397c56db6e09d9e0800000000000000
+      internalID: -1596228736605456074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_3
+      name: BirdNPC-7_3
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 1350
-        width: 400
-        height: 225
+        x: 660
+        y: 578
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,20 +211,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4de45020ecf13720800000000000000
-      internalID: 2824316480883322189
+      spriteID: 30cc7d0e69a310ad0800000000000000
+      internalID: -2737842678772806653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_4
+      name: BirdNPC-7_4
       rect:
         serializedVersion: 2
-        x: 1600
-        y: 1350
-        width: 400
-        height: 225
+        x: 880
+        y: 578
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,130 +233,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa22732f9cb338530800000000000000
-      internalID: 3855991444497441450
+      spriteID: 78eefc82eed5afb40800000000000000
+      internalID: 5474791574490574471
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1125
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5179527214c6aaa0800000000000000
-      internalID: -6150012657620913827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_6
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 1125
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a45fa843eb9983180800000000000000
-      internalID: -9135382801916693174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_7
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 1125
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e88c4fceea6d24300800000000000000
-      internalID: 234986177364805774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_8
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 1125
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 690ccb88c73ecc7c0800000000000000
-      internalID: -4049611840903397226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_9
-      rect:
-        serializedVersion: 2
-        x: 1600
-        y: 1125
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e07899e442f82af60800000000000000
-      internalID: 8044149270537406222
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_10
+      name: BirdNPC-7_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 900
-        width: 400
-        height: 225
+        y: 289
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,20 +255,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fb0d104dacd8160a0800000000000000
-      internalID: -6890070052620349249
+      spriteID: 65235420ce3e1e6f0800000000000000
+      internalID: -656993467829505450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_11
+      name: BirdNPC-7_6
       rect:
         serializedVersion: 2
-        x: 400
-        y: 900
-        width: 400
-        height: 225
+        x: 220
+        y: 289
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,20 +277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85759ffd036aa5550800000000000000
-      internalID: 6150410969974134616
+      spriteID: 4626dfc4a6c023100800000000000000
+      internalID: 86144993571201636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_12
+      name: BirdNPC-7_7
       rect:
         serializedVersion: 2
-        x: 800
-        y: 900
-        width: 400
-        height: 225
+        x: 440
+        y: 289
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,20 +299,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d88274a41c0462870800000000000000
-      internalID: 8657678532585400461
+      spriteID: f1ab65e1dce749380800000000000000
+      internalID: -8965401538745419233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_13
+      name: BirdNPC-7_8
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 900
-        width: 400
-        height: 225
+        x: 660
+        y: 289
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -503,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 961c7989eed356d40800000000000000
-      internalID: 5576931808539820393
+      spriteID: f41939f9741b88020800000000000000
+      internalID: 2344318527224385871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_14
+      name: BirdNPC-7_9
       rect:
         serializedVersion: 2
-        x: 1600
-        y: 900
-        width: 400
-        height: 225
+        x: 880
+        y: 289
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,350 +343,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6ea9c9a02dc5d2f60800000000000000
-      internalID: 8011161369352903398
+      spriteID: e5b55df6fa75453b0800000000000000
+      internalID: -5524694431869609122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 675
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 575dc1750380375d0800000000000000
-      internalID: -3066097917596215947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_16
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 675
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47c4702b7d39d98d0800000000000000
-      internalID: -2837949635559469964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_17
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 675
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c08ed1215c4c782f0800000000000000
-      internalID: -970590843983501300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_18
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 675
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3d6d0806018cca50800000000000000
-      internalID: 6542746221567372607
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_19
-      rect:
-        serializedVersion: 2
-        x: 1600
-        y: 675
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80bfdc7462d15e890800000000000000
-      internalID: -7429499960027120888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_20
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 450
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27f67a6d843b4ba10800000000000000
-      internalID: 1924360066214358898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_21
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 450
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1483110d00ad24a40800000000000000
-      internalID: 5351079004295215169
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_22
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 450
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f694e03437f533a80800000000000000
-      internalID: -8488335924012365457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_23
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 450
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2572686af742671d0800000000000000
-      internalID: -3353452741857499310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_24
-      rect:
-        serializedVersion: 2
-        x: 1600
-        y: 450
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6c63b5fa3949da30800000000000000
-      internalID: 4240501041725140077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_25
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 225
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: df3275b165af09690800000000000000
-      internalID: -7597297323641199619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_26
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 225
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a9ef6758741ed4db0800000000000000
-      internalID: -4805937530036355430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_27
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 225
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2774996a4b09ac790800000000000000
-      internalID: -7509030323123304590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_28
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 225
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c928691235b004c0800000000000000
-      internalID: -4323256415496427064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_29
-      rect:
-        serializedVersion: 2
-        x: 1600
-        y: 225
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e32fb5d0f8b349710800000000000000
-      internalID: 1699048445016011326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_30
+      name: BirdNPC-7_10
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 400
-        height: 225
+        width: 220
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -877,74 +365,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f44e9017f6ffc3f0800000000000000
-      internalID: -878211861317794570
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_31
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 0
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e178bfe8909f68a40800000000000000
-      internalID: 5370253425134765854
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_32
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 0
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e14fba1f91a9f280800000000000000
-      internalID: -9008991874857352734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_33
-      rect:
-        serializedVersion: 2
-        x: 1200
-        y: 0
-        width: 400
-        height: 225
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd6293bee6f368470800000000000000
-      internalID: 8396468300904212187
+      spriteID: 9ad3daded61cb57d0800000000000000
+      internalID: -2928534454791225943
       vertices: []
       indices: 
       edges: []
@@ -953,7 +375,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b100d9a08b3230a48b9b1bc874f9cc7f
+    spriteID: 8ed9f9a808ef0f249ac565ac567b9c7b
     internalID: 0
     vertices: []
     indices: 
@@ -963,40 +385,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_0: -464217000069196360
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_1: 143689367687869534
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_10: -6890070052620349249
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_11: 6150410969974134616
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_12: 8657678532585400461
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_13: 5576931808539820393
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_14: 8011161369352903398
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_15: -3066097917596215947
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_16: -2837949635559469964
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_17: -970590843983501300
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_18: 6542746221567372607
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_19: -7429499960027120888
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_2: -8961643884892825276
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_20: 1924360066214358898
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_21: 5351079004295215169
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_22: -8488335924012365457
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_23: -3353452741857499310
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_24: 4240501041725140077
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_25: -7597297323641199619
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_26: -4805937530036355430
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_27: -7509030323123304590
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_28: -4323256415496427064
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_29: 1699048445016011326
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_3: 2824316480883322189
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_30: -878211861317794570
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_31: 5370253425134765854
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_32: -9008991874857352734
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_33: 8396468300904212187
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_4: 3855991444497441450
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_5: -6150012657620913827
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_6: -9135382801916693174
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_7: 234986177364805774
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_8: -4049611840903397226
-      mrBrYFh-unscreen-ezgif.com-gif-to-sprite-converter_9: 8044149270537406222
+      BirdNPC-7_0: -8748124887547550303
+      BirdNPC-7_1: -2833482666357852558
+      BirdNPC-7_10: -2928534454791225943
+      BirdNPC-7_2: -1596228736605456074
+      BirdNPC-7_3: -2737842678772806653
+      BirdNPC-7_4: 5474791574490574471
+      BirdNPC-7_5: -656993467829505450
+      BirdNPC-7_6: 86144993571201636
+      BirdNPC-7_7: -8965401538745419233
+      BirdNPC-7_8: 2344318527224385871
+      BirdNPC-7_9: -5524694431869609122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
