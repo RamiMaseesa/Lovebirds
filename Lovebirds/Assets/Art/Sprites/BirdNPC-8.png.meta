@@ -3,176 +3,62 @@ guid: ea51568cd7b66ef44b1819eb25df5221
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4492554737673397533
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_0
+      213: 9061788563095299658
+    second: BirdNPC-8_0
   - first:
-      213: -1149578231842656133
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_1
+      213: -5379821213702224975
+    second: BirdNPC-8_1
   - first:
-      213: -8403164762085747809
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_2
+      213: -2388467519754059748
+    second: BirdNPC-8_2
   - first:
-      213: 3567247853037676838
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_3
+      213: 3323938596533725126
+    second: BirdNPC-8_3
   - first:
-      213: -1538656676168858990
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_4
+      213: -4366803898043900061
+    second: BirdNPC-8_4
   - first:
-      213: -8862281964427674577
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_5
+      213: -7213890027387817120
+    second: BirdNPC-8_5
   - first:
-      213: -6050947779278817029
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_6
+      213: 7931590966794310160
+    second: BirdNPC-8_6
   - first:
-      213: -4867088669741211672
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_7
+      213: 4035484702367752445
+    second: BirdNPC-8_7
   - first:
-      213: 7797861613918316559
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_8
+      213: -8107022980764758787
+    second: BirdNPC-8_8
   - first:
-      213: 612179375788687015
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_9
+      213: 8593730974027444506
+    second: BirdNPC-8_9
   - first:
-      213: -9173945479131897728
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_10
+      213: 7023053028488915237
+    second: BirdNPC-8_10
   - first:
-      213: 4939425148489344884
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_11
+      213: -2194418112420400399
+    second: BirdNPC-8_11
   - first:
-      213: 7611625666581361018
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_12
+      213: -534804069876821978
+    second: BirdNPC-8_12
   - first:
-      213: 9183905014274355292
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_13
+      213: -7291358740874399138
+    second: BirdNPC-8_13
   - first:
-      213: 4996576958180440877
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_14
+      213: -3403737993420657576
+    second: BirdNPC-8_14
   - first:
-      213: 1702952298072355009
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_15
+      213: 689189256611464652
+    second: BirdNPC-8_15
   - first:
-      213: 691187049120278663
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_16
+      213: -8423390642810456160
+    second: BirdNPC-8_16
   - first:
-      213: 121639912057520838
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_17
+      213: 8091762403542417665
+    second: BirdNPC-8_17
   - first:
-      213: -8173353739447061369
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_18
-  - first:
-      213: 4828545666950928859
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_19
-  - first:
-      213: -708774725491441180
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_20
-  - first:
-      213: -2748030201859679531
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_21
-  - first:
-      213: 8930309421257237812
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_22
-  - first:
-      213: 6581563349727841254
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_23
-  - first:
-      213: 3576421698628362759
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_24
-  - first:
-      213: 3236846831853490309
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_25
-  - first:
-      213: 2306817269914823492
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_26
-  - first:
-      213: -2051550261306573218
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_27
-  - first:
-      213: 3009587357793688272
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_28
-  - first:
-      213: -6634581981615798656
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_29
-  - first:
-      213: -9063423505441363649
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_30
-  - first:
-      213: 5492743369431056416
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_31
-  - first:
-      213: -8195080826736315630
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_32
-  - first:
-      213: -2506084603645509339
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_33
-  - first:
-      213: 5756980754327036842
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_34
-  - first:
-      213: 7154989631086561101
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_35
-  - first:
-      213: -2363009038121782000
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_36
-  - first:
-      213: 1624121262910898593
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_37
-  - first:
-      213: -925810191769799731
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_38
-  - first:
-      213: -3329058890830046680
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_39
-  - first:
-      213: 1030899550675419458
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_40
-  - first:
-      213: 4468264878820253998
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_41
-  - first:
-      213: -2913170382337956336
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_42
-  - first:
-      213: -3377891202702130104
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_43
-  - first:
-      213: 7912856476782294605
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_44
-  - first:
-      213: 7373570188626345004
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_45
-  - first:
-      213: 984779059623309163
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_46
-  - first:
-      213: -7209612691726045970
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_47
-  - first:
-      213: -5944123621797268411
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_48
-  - first:
-      213: 2516219315783333708
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_49
-  - first:
-      213: -2117254786978042048
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_50
-  - first:
-      213: -1062334695314534580
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_51
-  - first:
-      213: 2089647892443653106
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_52
-  - first:
-      213: -4146045822450905846
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_53
-  - first:
-      213: -7653050817149480272
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_54
-  - first:
-      213: 1376462660451321046
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_55
-  - first:
-      213: -5246561007675783592
-    second: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_56
+      213: 3472754049555683087
+    second: BirdNPC-8_18
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -268,13 +154,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_0
+      name: BirdNPC-8_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 2259
+        y: 738
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ea9af6c44d37a1c0800000000000000
-      internalID: -4492554737673397533
+      spriteID: a462efccfa0f1cd70800000000000000
+      internalID: 9061788563095299658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_1
+      name: BirdNPC-8_1
       rect:
         serializedVersion: 2
         x: 220
-        y: 2259
+        y: 738
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b703f7950b0eb00f0800000000000000
-      internalID: -1149578231842656133
+      spriteID: 1b30b221c190755b0800000000000000
+      internalID: -5379821213702224975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_2
+      name: BirdNPC-8_2
       rect:
         serializedVersion: 2
         x: 440
-        y: 2259
+        y: 738
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,20 +213,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f939cc6bb26f16b80800000000000000
-      internalID: -8403164762085747809
+      spriteID: c10408702757aded0800000000000000
+      internalID: -2388467519754059748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_3
+      name: BirdNPC-8_3
       rect:
         serializedVersion: 2
         x: 660
-        y: 2259
+        y: 738
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 629e512b509618130800000000000000
-      internalID: 3567247853037676838
+      spriteID: 6c76a95ea80012e20800000000000000
+      internalID: 3323938596533725126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_4
+      name: BirdNPC-8_4
       rect:
         serializedVersion: 2
         x: 880
-        y: 2259
+        y: 738
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2920ca9b7e795aae0800000000000000
-      internalID: -1538656676168858990
+      spriteID: 36f5d45bdfef563c0800000000000000
+      internalID: -4366803898043900061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_5
+      name: BirdNPC-8_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 2008
+        y: 492
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2cffeaf189d20580800000000000000
-      internalID: -8862281964427674577
+      spriteID: 063f0dcad3d13eb90800000000000000
+      internalID: -7213890027387817120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_6
+      name: BirdNPC-8_6
       rect:
         serializedVersion: 2
         x: 220
-        y: 2008
+        y: 492
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,20 +301,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bf8b5a5dd07b60ca0800000000000000
-      internalID: -6050947779278817029
+      spriteID: 012d87ff5fba21e60800000000000000
+      internalID: 7931590966794310160
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_7
+      name: BirdNPC-8_7
       rect:
         serializedVersion: 2
         x: 440
-        y: 2008
+        y: 492
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -437,20 +323,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ef1fbd44a0a47cb0800000000000000
-      internalID: -4867088669741211672
+      spriteID: df02725b4fbe00830800000000000000
+      internalID: 4035484702367752445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_8
+      name: BirdNPC-8_8
       rect:
         serializedVersion: 2
         x: 660
-        y: 2008
+        y: 492
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,20 +345,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f086141b2d1973c60800000000000000
-      internalID: 7797861613918316559
+      spriteID: dfc86954d811e7f80800000000000000
+      internalID: -8107022980764758787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_9
+      name: BirdNPC-8_9
       rect:
         serializedVersion: 2
         x: 880
-        y: 2008
+        y: 492
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -481,20 +367,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ae74b816e5ee7800800000000000000
-      internalID: 612179375788687015
+      spriteID: a117d221ac0134770800000000000000
+      internalID: 8593730974027444506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_10
+      name: BirdNPC-8_10
       rect:
         serializedVersion: 2
         x: 0
-        y: 1757
+        y: 246
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -503,20 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 080ea8f31399fa080800000000000000
-      internalID: -9173945479131897728
+      spriteID: 52920d90585e67160800000000000000
+      internalID: 7023053028488915237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_11
+      name: BirdNPC-8_11
       rect:
         serializedVersion: 2
         x: 220
-        y: 1757
+        y: 246
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -525,20 +411,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 477a65a900d5c8440800000000000000
-      internalID: 4939425148489344884
+      spriteID: 1f2bf707a5cdb81e0800000000000000
+      internalID: -2194418112420400399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_12
+      name: BirdNPC-8_12
       rect:
         serializedVersion: 2
         x: 440
-        y: 1757
+        y: 246
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -547,20 +433,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a71f3d3373de1a960800000000000000
-      internalID: 7611625666581361018
+      spriteID: 6201f8e288ef398f0800000000000000
+      internalID: -534804069876821978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_13
+      name: BirdNPC-8_13
       rect:
         serializedVersion: 2
         x: 660
-        y: 1757
+        y: 246
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -569,20 +455,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c5070cab3f8c37f70800000000000000
-      internalID: 9183905014274355292
+      spriteID: e52fd304bd3efca90800000000000000
+      internalID: -7291358740874399138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_14
+      name: BirdNPC-8_14
       rect:
         serializedVersion: 2
         x: 880
-        y: 1757
+        y: 246
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -591,680 +477,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d2b3f3d3548675540800000000000000
-      internalID: 4996576958180440877
+      spriteID: 85c29a9245e73c0d0800000000000000
+      internalID: -3403737993420657576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1506
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c0b90ca71a12a710800000000000000
-      internalID: 1702952298072355009
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_16
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 1506
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7882a2885f6979900800000000000000
-      internalID: 691187049120278663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_17
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 1506
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c2c2b40bd620b100800000000000000
-      internalID: 121639912057520838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_18
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 1506
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 784b5a8041a629e80800000000000000
-      internalID: -8173353739447061369
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_19
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 1506
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd99c5c83b0720340800000000000000
-      internalID: 4828545666950928859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_20
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1255
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e1ce45742de926f0800000000000000
-      internalID: -708774725491441180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_21
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 1255
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5dadb1257190dd9d0800000000000000
-      internalID: -2748030201859679531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_22
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 1255
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 435ac549a15deeb70800000000000000
-      internalID: 8930309421257237812
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_23
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 1255
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6eb0247fef8665b50800000000000000
-      internalID: 6581563349727841254
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_24
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 1255
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7022eb1169002a130800000000000000
-      internalID: 3576421698628362759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_25
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1004
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 580d9f44b079bec20800000000000000
-      internalID: 3236846831853490309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_26
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 1004
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44b620fb516730020800000000000000
-      internalID: 2306817269914823492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_27
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 1004
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5e36fb28ed6783e0800000000000000
-      internalID: -2051550261306573218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_28
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 1004
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0da9cc5a1c334c920800000000000000
-      internalID: 3009587357793688272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_29
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 1004
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0864598d6da3de3a0800000000000000
-      internalID: -6634581981615798656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_30
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 753
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f39ed358750483280800000000000000
-      internalID: -9063423505441363649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_31
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 753
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02002512ef42a3c40800000000000000
-      internalID: 5492743369431056416
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_32
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 753
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 21374c05869354e80800000000000000
-      internalID: -8195080826736315630
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_33
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 753
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 52142aea459983dd0800000000000000
-      internalID: -2506084603645509339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_34
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 753
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa36c688e77e4ef40800000000000000
-      internalID: 5756980754327036842
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_35
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 502
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d4784842921ab4360800000000000000
-      internalID: 7154989631086561101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_36
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 502
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 015b6b1bcc7e43fd0800000000000000
-      internalID: -2363009038121782000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_37
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 502
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a186f30fa90a8610800000000000000
-      internalID: 1624121262910898593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_38
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 502
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc3ff16298cd623f0800000000000000
-      internalID: -925810191769799731
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_39
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 502
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82a18bfa39eccc1d0800000000000000
-      internalID: -3329058890830046680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_40
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 251
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2414e1dedad7e4e00800000000000000
-      internalID: 1030899550675419458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_41
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 251
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e216f60cb37720e30800000000000000
-      internalID: 4468264878820253998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_42
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 251
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 016ae8ec8f65297d0800000000000000
-      internalID: -2913170382337956336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_43
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 251
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 844c50519d15f11d0800000000000000
-      internalID: -3377891202702130104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_44
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 251
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d46f141aa0d10dd60800000000000000
-      internalID: 7912856476782294605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_45
+      name: BirdNPC-8_15
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1273,20 +499,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2cbb7b050f245660800000000000000
-      internalID: 7373570188626345004
+      spriteID: cc587573afd709900800000000000000
+      internalID: 689189256611464652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_46
+      name: BirdNPC-8_16
       rect:
         serializedVersion: 2
         x: 220
         y: 0
         width: 220
-        height: 251
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1295,74 +521,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6f271f4653aaad00800000000000000
-      internalID: 984779059623309163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_47
-      rect:
-        serializedVersion: 2
-        x: 440
-        y: 0
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eec658d747f42fb90800000000000000
-      internalID: -7209612691726045970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_48
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 0
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 544f3cd2f0b328da0800000000000000
-      internalID: -5944123621797268411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_49
-      rect:
-        serializedVersion: 2
-        x: 880
-        y: 0
-        width: 220
-        height: 251
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c47fd3ed2286be220800000000000000
-      internalID: 2516219315783333708
+      spriteID: 0a7fee2e6da1a1b80800000000000000
+      internalID: -8423390642810456160
       vertices: []
       indices: 
       edges: []
@@ -1371,7 +531,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d47a88410c25b9a409027c82f96cd0b9
+    spriteID: c268257bb463e124e99c8b5cd75b6f4e
     internalID: 0
     vertices: []
     indices: 
@@ -1381,56 +541,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_0: -4492554737673397533
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_1: -1149578231842656133
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_10: -9173945479131897728
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_11: 4939425148489344884
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_12: 7611625666581361018
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_13: 9183905014274355292
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_14: 4996576958180440877
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_15: 1702952298072355009
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_16: 691187049120278663
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_17: 121639912057520838
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_18: -8173353739447061369
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_19: 4828545666950928859
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_2: -8403164762085747809
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_20: -708774725491441180
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_21: -2748030201859679531
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_22: 8930309421257237812
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_23: 6581563349727841254
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_24: 3576421698628362759
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_25: 3236846831853490309
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_26: 2306817269914823492
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_27: -2051550261306573218
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_28: 3009587357793688272
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_29: -6634581981615798656
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_3: 3567247853037676838
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_30: -9063423505441363649
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_31: 5492743369431056416
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_32: -8195080826736315630
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_33: -2506084603645509339
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_34: 5756980754327036842
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_35: 7154989631086561101
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_36: -2363009038121782000
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_37: 1624121262910898593
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_38: -925810191769799731
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_39: -3329058890830046680
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_4: -1538656676168858990
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_40: 1030899550675419458
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_41: 4468264878820253998
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_42: -2913170382337956336
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_43: -3377891202702130104
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_44: 7912856476782294605
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_45: 7373570188626345004
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_46: 984779059623309163
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_47: -7209612691726045970
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_48: -5944123621797268411
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_49: 2516219315783333708
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_5: -8862281964427674577
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_6: -6050947779278817029
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_7: -4867088669741211672
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_8: 7797861613918316559
-      parrot-dance-unscreen-ezgif.com-gif-to-sprite-converter_9: 612179375788687015
+      BirdNPC-8_0: 9061788563095299658
+      BirdNPC-8_1: -5379821213702224975
+      BirdNPC-8_10: 7023053028488915237
+      BirdNPC-8_11: -2194418112420400399
+      BirdNPC-8_12: -534804069876821978
+      BirdNPC-8_13: -7291358740874399138
+      BirdNPC-8_14: -3403737993420657576
+      BirdNPC-8_15: 689189256611464652
+      BirdNPC-8_16: -8423390642810456160
+      BirdNPC-8_2: -2388467519754059748
+      BirdNPC-8_3: 3323938596533725126
+      BirdNPC-8_4: -4366803898043900061
+      BirdNPC-8_5: -7213890027387817120
+      BirdNPC-8_6: 7931590966794310160
+      BirdNPC-8_7: 4035484702367752445
+      BirdNPC-8_8: -8107022980764758787
+      BirdNPC-8_9: 8593730974027444506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
