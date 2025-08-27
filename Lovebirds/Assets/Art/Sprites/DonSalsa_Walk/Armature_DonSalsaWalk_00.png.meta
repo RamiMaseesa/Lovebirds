@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Armature_DonSalsaWalk_00_0: -2952218860704159274
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
