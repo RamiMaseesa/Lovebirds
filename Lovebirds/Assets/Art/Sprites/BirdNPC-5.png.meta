@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: d89f7c0fc804efa43b578a03b2f043e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5945453281006564597
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -3639632417330532162
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -2020962520916253458
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -8332739117950426636
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 7246903408034079934
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -4972152994003412199
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -3014552820954493046
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: 476929878539508559
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -382912270174134124
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: -2870278271351576516
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -2393174422747367108
+    second: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4ce4cdb18d7da0800000000000000
+      internalID: -5945453281006564597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 578
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0740c999d6d7dc0800000000000000
+      internalID: -3639632417330532162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 578
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4a8647b4914f3e0800000000000000
+      internalID: -2020962520916253458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 578
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f12094cbe92c5c80800000000000000
+      internalID: -8332739117950426636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 578
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4607df04c229460800000000000000
+      internalID: 7246903408034079934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b188f023d5ffab0800000000000000
+      internalID: -4972152994003412199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 289
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0b5e5e282a26d0800000000000000
+      internalID: -3014552820954493046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 289
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b1e1992356e9600800000000000000
+      internalID: 476929878539508559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 289
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490e12ca15f9faaf0800000000000000
+      internalID: -382912270174134124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 289
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38219d9e19ba28d0800000000000000
+      internalID: -2870278271351576516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39b796ca8cb9ced0800000000000000
+      internalID: -2393174422747367108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0c3f5eeef69689e48b1e2e3c687ff7af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_0: -5945453281006564597
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_1: -3639632417330532162
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_10: -2393174422747367108
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_2: -2020962520916253458
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_3: -8332739117950426636
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_4: 7246903408034079934
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_5: -4972152994003412199
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_6: -3014552820954493046
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_7: 476929878539508559
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_8: -382912270174134124
+      dancing-parrott-unscreen-ezgif.com-gif-to-sprite-converter_9: -2870278271351576516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

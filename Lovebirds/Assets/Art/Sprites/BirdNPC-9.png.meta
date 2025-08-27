@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 8c90b4b31bd349e4bacd99706656f082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8600214868492635057
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -3267815025020521486
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -5659565670099161257
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -784686579475361128
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -4853340075097541924
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 8620869293302768664
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 8268055313597332090
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -2010373287005777887
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -4249328810764278599
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 8915626616696157095
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: 2980131828510787307
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -8148506401845787036
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -7897748145805423936
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -7718854161300013332
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -4483781933095954334
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -1750197780055225756
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: -9025023864561923969
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 804030952861297087
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -5529370224312679641
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 4929633053542379321
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: 3883261402935644196
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -170763242925834054
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -4404858919741399851
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 9182581069519929827
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 233068768268275031
+    second: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb49846bd91a5770800000000000000
+      internalID: 8600214868492635057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1220
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3b7f16c8366a2d0800000000000000
+      internalID: -3267815025020521486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1220
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f6eba320f2571b0800000000000000
+      internalID: -5659565670099161257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1220
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892da52a6bb3c15f0800000000000000
+      internalID: -784686579475361128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1220
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2b4a17ae875acb0800000000000000
+      internalID: -4853340075097541924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814626a62fa73a770800000000000000
+      internalID: 8620869293302768664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 915
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aff3e60880eb270800000000000000
+      internalID: 8268055313597332090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 915
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120161a9528b914e0800000000000000
+      internalID: -2010373287005777887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 915
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4ef84e5f95705c0800000000000000
+      internalID: -4249328810764278599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 915
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3313ebb2baabb70800000000000000
+      internalID: 8915626616696157095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6883ecb1e8b5920800000000000000
+      internalID: 2980131828510787307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 610
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4664cf3a990baee80800000000000000
+      internalID: -8148506401845787036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 610
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca84cbc7ef856290800000000000000
+      internalID: -7897748145805423936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 610
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceebaaa590f11e490800000000000000
+      internalID: -7718854161300013332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 610
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2685083861866c1c0800000000000000
+      internalID: -4483781933095954334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a8129546c06b7e0800000000000000
+      internalID: -1750197780055225756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 305
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f780d5f9c9ca0c280800000000000000
+      internalID: -9025023864561923969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 305
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb967b544ed782b00800000000000000
+      internalID: 804030952861297087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 305
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723883ca31bb343b0800000000000000
+      internalID: -5529370224312679641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 305
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fea65d423996440800000000000000
+      internalID: 4929633053542379321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420d6fbebad14e530800000000000000
+      internalID: 3883261402935644196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab046bc3cb351adf0800000000000000
+      internalID: -170763242925834054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 165
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc5a13862cced2c0800000000000000
+      internalID: -4404858919741399851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c413d9404404d9b4a913b81ff3e0d39c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_0: 8600214868492635057
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_1: -3267815025020521486
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_10: 2980131828510787307
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_11: -8148506401845787036
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_12: -7897748145805423936
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_13: -7718854161300013332
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_14: -4483781933095954334
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_15: -1750197780055225756
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_16: -9025023864561923969
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_17: 804030952861297087
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_18: -5529370224312679641
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_19: 4929633053542379321
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_2: -5659565670099161257
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_20: 3883261402935644196
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_21: -170763242925834054
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_22: -4404858919741399851
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_3: -784686579475361128
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_4: -4853340075097541924
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_5: 8620869293302768664
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_6: 8268055313597332090
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_7: -2010373287005777887
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_8: -4249328810764278599
+      parrot-dancing-unscreen-ezgif.com-gif-to-sprite-converter_9: 8915626616696157095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

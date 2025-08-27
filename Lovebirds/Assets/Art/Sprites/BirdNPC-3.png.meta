@@ -1,0 +1,1429 @@
+fileFormatVersion: 2
+guid: 7975401beaba6414d96f1010b223e544
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8586077468039827248
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: 2441768399219501281
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 610952842907626108
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: 2273017206535443112
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 7868822366979516963
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 8952617297379088520
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 85858273672828834
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -6915163472026843270
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 1037118362793005000
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 777646297476190639
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -237831643918113206
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -6805499641130583352
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 1185515627516996172
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -938086003375368563
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -7327689487049634346
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 1467094553911783977
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 6873505304808855037
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -2279548579212867516
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 617535895034766799
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: 1544339187970766156
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -7812814938761643353
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 4370608978920798936
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 4306508888033397287
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -2851699488212405355
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 5390408509334801276
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 5889397331013205928
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 3374526021833476552
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: -730573217481476582
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -6107436184336847708
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: -3650178959588692102
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 3403967324951250175
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 5701027362327486983
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 3779237843967650347
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 699562075883852181
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: 5148986185200950783
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: -7367131194830836376
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: 2338471295478583892
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: 8523002015255677246
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: 3079257377520807755
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: -8525287821864984605
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: -8462301670893950043
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: 4322624640005320797
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: 2785619186872857049
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: 427778175246790312
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: -4427141431479470025
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: 7712480881468688434
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: 6814302278768273430
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: 2463354821644395105
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: -8663534194178571749
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: -4193246346029945372
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: 8363696198158983887
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: 4374014776299304528
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: 8348356596367369552
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: 8514220503265597084
+    second: bird-unscreen-ezgif.com-gif-to-sprite-converter_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d03087a80028d880800000000000000
+      internalID: -8586077468039827248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1980
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8a04b0c67e2e120800000000000000
+      internalID: 2441768399219501281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1980
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a2608af5a8a7800800000000000000
+      internalID: 610952842907626108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1980
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a255eb3b116b8f10800000000000000
+      internalID: 2273017206535443112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1980
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a6670804ca33d60800000000000000
+      internalID: 7868822366979516963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8885c4cbff51e3c70800000000000000
+      internalID: 8952617297379088520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1760
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a71c4f15a7013100800000000000000
+      internalID: 85858273672828834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1760
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a774516d5776800a0800000000000000
+      internalID: -6915163472026843270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1760
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfcf44f7a5946e00800000000000000
+      internalID: 1037118362793005000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1760
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa157f9ff21caca00800000000000000
+      internalID: 777646297476190639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46e9e3416d03bcf0800000000000000
+      internalID: -237831643918113206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1540
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cafc5b22220e81a0800000000000000
+      internalID: -6805499641130583352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1540
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a23dd9e2cc37010800000000000000
+      internalID: 1185515627516996172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1540
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d869b0800cf3bf2f0800000000000000
+      internalID: -938086003375368563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1540
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddca0c3c31de4a90800000000000000
+      internalID: -7327689487049634346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92272d949ba2c5410800000000000000
+      internalID: 1467094553911783977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1320
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df515e648a8936f50800000000000000
+      internalID: 6873505304808855037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1320
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44845cf05aa6d50e0800000000000000
+      internalID: -2279548579212867516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1320
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a99bef9de19800800000000000000
+      internalID: 617535895034766799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1320
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4576b72f489e6510800000000000000
+      internalID: 1544339187970766156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa3f3f053e439390800000000000000
+      internalID: -7812814938761643353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1100
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daf4b8b5b587ac30800000000000000
+      internalID: 4370608978920798936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1100
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a0b4d440bc3cb30800000000000000
+      internalID: 4306508888033397287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1100
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593bfe6ac6abc68d0800000000000000
+      internalID: -2851699488212405355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1100
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bc429caf39eca40800000000000000
+      internalID: 5390408509334801276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8affc205ba75bb150800000000000000
+      internalID: 5889397331013205928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 880
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c942b0b989b4de20800000000000000
+      internalID: 3374526021833476552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 880
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a163a99878b7cd5f0800000000000000
+      internalID: -730573217481476582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 880
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2c3026270e3ba0800000000000000
+      internalID: -6107436184336847708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 880
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f6c136395f75dc0800000000000000
+      internalID: -3650178959588692102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff481ce3f325d3f20800000000000000
+      internalID: 3403967324951250175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 660
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702ef424e2e1e1f40800000000000000
+      internalID: 5701027362327486983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 660
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa76bbbcc827430800000000000000
+      internalID: 3779237843967650347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 660
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5915467600855b900800000000000000
+      internalID: 699562075883852181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 660
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffddb4aa7afd47740800000000000000
+      internalID: 5148986185200950783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86da8660631b2c990800000000000000
+      internalID: -7367131194830836376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452d274e04be37020800000000000000
+      internalID: 2338471295478583892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 440
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39c0431d29c74670800000000000000
+      internalID: 8523002015255677246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 440
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fe02f2548bbba20800000000000000
+      internalID: 3079257377520807755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 440
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef16c915e710b980800000000000000
+      internalID: -8525287821864984605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abeb2c277ddf8a80800000000000000
+      internalID: -8462301670893950043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d503ed4353c0dfb30800000000000000
+      internalID: 4322624640005320797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1b11144e188a620800000000000000
+      internalID: 2785619186872857049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeef32ebf5cfe500800000000000000
+      internalID: 427778175246790312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7387046f252af82c0800000000000000
+      internalID: -4427141431479470025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ceeccf7c380b60800000000000000
+      internalID: 7712480881468688434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6182e1e91d3419e50800000000000000
+      internalID: 6814302278768273430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1622cdba8289f2220800000000000000
+      internalID: 2463354821644395105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1249804d81f4c780800000000000000
+      internalID: -8663534194178571749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bird-unscreen-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed2e214aa89ec5c0800000000000000
+      internalID: -4193246346029945372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8798ca87cad9f8d46b623b55217a6e3b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_0: -8586077468039827248
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_1: 2441768399219501281
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_10: -237831643918113206
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_11: -6805499641130583352
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_12: 1185515627516996172
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_13: -938086003375368563
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_14: -7327689487049634346
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_15: 1467094553911783977
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_16: 6873505304808855037
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_17: -2279548579212867516
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_18: 617535895034766799
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_19: 1544339187970766156
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_2: 610952842907626108
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_20: -7812814938761643353
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_21: 4370608978920798936
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_22: 4306508888033397287
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_23: -2851699488212405355
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_24: 5390408509334801276
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_25: 5889397331013205928
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_26: 3374526021833476552
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_27: -730573217481476582
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_28: -6107436184336847708
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_29: -3650178959588692102
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_3: 2273017206535443112
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_30: 3403967324951250175
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_31: 5701027362327486983
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_32: 3779237843967650347
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_33: 699562075883852181
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_34: 5148986185200950783
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_35: -7367131194830836376
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_36: 2338471295478583892
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_37: 8523002015255677246
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_38: 3079257377520807755
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_39: -8525287821864984605
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_4: 7868822366979516963
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_40: -8462301670893950043
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_41: 4322624640005320797
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_42: 2785619186872857049
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_43: 427778175246790312
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_44: -4427141431479470025
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_45: 7712480881468688434
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_46: 6814302278768273430
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_47: 2463354821644395105
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_48: -8663534194178571749
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_49: -4193246346029945372
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_5: 8952617297379088520
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_6: 85858273672828834
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_7: -6915163472026843270
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_8: 1037118362793005000
+      bird-unscreen-ezgif.com-gif-to-sprite-converter_9: 777646297476190639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
