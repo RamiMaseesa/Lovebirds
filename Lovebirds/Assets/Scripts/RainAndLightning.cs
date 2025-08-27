@@ -26,7 +26,7 @@ public class RainAndLightning : MonoBehaviour {
     }
 
     void ScheduleNextLightning() {
-        float delay = UnityEngine.Random.Range(3f, 3f); // time between strikes
+        float delay = UnityEngine.Random.Range(3f, 9f); // time between strikes
         rndtime = Time.time + delay;
     }
 

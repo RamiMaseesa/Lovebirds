@@ -302,6 +302,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lightning: {fileID: 1127814599}
+  thunderClips:
+  - {fileID: 8300000, guid: 3dc7bfba3af8ff04fa556a3b98e6d9eb, type: 3}
+  - {fileID: 8300000, guid: 931b7c013d9098b4b899e2b8a4e41ec1, type: 3}
+  - {fileID: 8300000, guid: 815b082570b750443a5608f2909c9503, type: 3}
 --- !u!82 &845922031
 AudioSource:
   m_ObjectHideFlags: 0
@@ -312,8 +316,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 985a5c3d13e0fc545a8910b8d7003a5f, type: 3}
+  m_Resource: {fileID: 8300000, guid: 985a5c3d13e0fc545a8910b8d7003a5f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
