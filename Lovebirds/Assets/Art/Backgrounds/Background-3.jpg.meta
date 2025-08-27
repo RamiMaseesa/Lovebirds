@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6ceb9fe8c69f85641bd0797e77dff22f
+guid: b746170b7d3102b4b90025ba09fc3d0e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7476797908569584022
-    second: Armature_DonSalsaDance_10_0
+      213: 187256587633622402
+    second: Media (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Armature_DonSalsaDance_10_0
+      name: Media (1)_0
       rect:
         serializedVersion: 2
-        x: 338
-        y: 732
-        width: 620
-        height: 360
+        x: 0
+        y: 0
+        width: 1614
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6e835a7ae31d3890800000000000000
-      internalID: -7476797908569584022
+      spriteID: 28df0c3dfd4499200800000000000000
+      internalID: 187256587633622402
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Armature_DonSalsaDance_10_0: -7476797908569584022
+      Media (1)_0: 187256587633622402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
