@@ -1,3 +1,4 @@
+using UnityEditor.Rendering;
 using UnityEngine;
 
 public class Pijltje1 : MonoBehaviour
@@ -6,15 +7,19 @@ public class Pijltje1 : MonoBehaviour
     [SerializeField] float speed;
     [SerializeField] float maxLinks;
     [SerializeField] float maxRechts;
+    [SerializeField] int points;
     private Rigidbody2D rb;
     float currentSpeed;
+    bool spacePressed;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         Application.targetFrameRate = 60;
         currentSpeed = speed;
+        points = 0;
     }
+
     void Update()
     {
         horizontal = gameObject.transform.localScale.x;
@@ -29,27 +34,30 @@ public class Pijltje1 : MonoBehaviour
             currentSpeed = speed;
         }
         rb.linearVelocity = new Vector2(horizontal * currentSpeed, rb.linearVelocityY); //De velocity wordt op een nieuwe positie en de van de x speed wordt berekent.
-
-    }
-
-    private void FixedUpdate()
-    {
-        
-    }
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            if (gameObject.tag == "Red")
-            {
-                print("rood aanraak");
-            }
-            if (gameObject.tag == "Green")
-            {
-                print("Green aanraak");
-            }
-
+            spacePressed = true;
         }
+    }
+
+    private void OnTriggerStay2D(Collider2D collision) //While being on the object
+    {
+        if (spacePressed && collision.gameObject.tag == "Red")
+        {
+            print("Red aanraak");
+            print(points);
+            points--;
+            spacePressed = false;
+        }
+
+        else if (spacePressed && collision.gameObject.tag == "Green")
+        {
+            print("Green aanraak");
+            print(points);
+            points++;
+            spacePressed = false;
+        }
+
+        spacePressed = false;
     }
 }
