@@ -2,15 +2,15 @@ using UnityEngine;
 
 public class RandomBird : MonoBehaviour
 {
-    int rand = Random.Range(1, 12); // Generates a random number between 1 and 11.
+    [SerializeField] GameObject[] bPrefab;
 
     private void Start()
     {
-        GameObject bPrefab = Resources.Load<GameObject>($"BirdNPC-{rand}Prefab");
+        int rand = Random.Range(0, bPrefab.Length); // Generates a random number between 0 and the amount of bird npcs.
 
-        if (bPrefab != null)
+        if (bPrefab[rand] != null)
         {
-            Instantiate(bPrefab/*, position*//*, rotation*/);
+            Instantiate(bPrefab[rand], transform.position, Quaternion.identity); // Spawns a random bird npc at the position of the empty game object.
         }
     }
 
