@@ -12,11 +12,16 @@ public class Buttons : MonoBehaviour
 
     public void Tutorial()
     {
-        SceneManager.LoadScene("Tutorial");
+        SceneManager.LoadScene("Ricardo");
     }
 
     public void Play()
     {
         SceneManager.LoadScene("SampleScene");
+    }
+
+    public void Menu()
+    {
+        SceneManager.LoadScene("ZeinebMenu");
     }
 }
