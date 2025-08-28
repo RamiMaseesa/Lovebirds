@@ -7,7 +7,7 @@ public class Pijltje1 : MonoBehaviour
     [SerializeField] float speed;
     [SerializeField] float maxLinks;
     [SerializeField] float maxRechts;
-    [SerializeField] int points;
+    public int points;
     private Rigidbody2D rb;
     float currentSpeed;
     bool spacePressed;
