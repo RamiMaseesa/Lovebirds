@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class RandomBird : MonoBehaviour
@@ -11,16 +12,9 @@ public class RandomBird : MonoBehaviour
     private void Start()
     {
         set = true;
-    }
-
-    private void Update()
-    {
         SpawnBirds();
-        for (int i = 0; i < currentBirds.Count; i++)
-        {
-            Debug.Log(currentBirds[i]);
-        }
     }
+    
     private void SpawnBirds()
     {
         for (int i = 0; i < 5; i++)
@@ -36,5 +30,9 @@ public class RandomBird : MonoBehaviour
             }
         }
         set = false;
+
+        for (int i = 0; i < currentBirds.Count; i++) {
+            Debug.Log(currentBirds[i]);
+        }
     }
 }
