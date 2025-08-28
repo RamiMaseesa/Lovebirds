@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 965e8d5d1966e264785332aa12e313e0
+guid: b969b5dc1f1f5424d8fd4bde424f848f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6981827254641702772
-    second: cloud_0
+      213: 6640464690610726747
+    second: redcircle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: cloud_0
+      name: redcircle_0
       rect:
         serializedVersion: 2
-        x: 84
-        y: 186
-        width: 458
-        height: 254
+        x: 24
+        y: 15
+        width: 432
+        height: 330
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c88c0fb6a119b1f90800000000000000
-      internalID: -6981827254641702772
+      spriteID: b576063147ba72c50800000000000000
+      internalID: 6640464690610726747
       vertices: []
       indices: 
       edges: []
@@ -160,8 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      cloud_0: -6981827254641702772
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
