@@ -5,18 +5,20 @@ using UnityEngine;
 
 public class CoinsText : MonoBehaviour
 {
-    Pijltje1 pijltje;
+    public Pijltje1 pijltje;
     [SerializeField] TMP_Text coinsText;
     // Start is called before the first frame update
     void Start()
     {
-        pijltje = FindFirstObjectByType<Pijltje1>();
-        UpdateCoinsUI();
+        //pijltje = FindFirstObjectByType<Pijltje1>();
+        //UpdateCoinsUI();
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (pijltje.enabled == false) return;
+
         UpdateCoinsUI();
 
         if (pijltje.points == 10)
@@ -27,6 +29,6 @@ public class CoinsText : MonoBehaviour
 
     void UpdateCoinsUI()
     {
-        coinsText.text = "" + pijltje.points;
+        coinsText.text = "Score: " + pijltje.points;
     }
 }
