@@ -1,8 +1,11 @@
+using Unity.VisualScripting.Antlr3.Runtime.Tree;
 using UnityEditor.Rendering;
 using UnityEngine;
 
 public class Pijltje1 : MonoBehaviour
 {
+    private ActivateBarPlayer barPlayer;
+
     private float horizontal;
     [SerializeField] float speed;
     [SerializeField] float maxLinks;
@@ -12,6 +15,8 @@ public class Pijltje1 : MonoBehaviour
     private Rigidbody2D rb;
     float currentSpeed;
     bool spacePressed;
+    bool hitRed = false;
+    private RandomBird randomBird;
 
     private void Start()
     {
@@ -20,6 +25,9 @@ public class Pijltje1 : MonoBehaviour
         currentSpeed = speed;
         points = 0;
         fakePoint = 0;
+
+        barPlayer = FindFirstObjectByType<ActivateBarPlayer>();
+        randomBird = FindFirstObjectByType<RandomBird>();
     }
 
     void Update()
@@ -42,10 +50,18 @@ public class Pijltje1 : MonoBehaviour
         }
 
         if (fakePoint == 3) { 
-            points++; 
+            points++;
+            fakePoint = 0;
+            barPlayer.DisableBar();
+            randomBird.DeleteAllBirds();
+            randomBird.SpawnBirds();
         }
-        else if (fakePoint < 0) {
-
+        else if (hitRed) {
+            fakePoint = 0;
+            hitRed = false;
+            barPlayer.DisableBar();
+            randomBird.DeleteAllBirds();
+            randomBird.SpawnBirds();
         }
     }
 
@@ -55,7 +71,7 @@ public class Pijltje1 : MonoBehaviour
         {
             print("Red aanraak");
             print(points);
-            fakePoint--;
+            hitRed = true;
             spacePressed = false;
         }
 

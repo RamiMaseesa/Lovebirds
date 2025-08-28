@@ -5,7 +5,7 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D rb;
     float horizontal;
     float vertical;
-    [SerializeField] float playerSpeed;
+    public float playerSpeed;
     bool facingRight;
     Animator animator;
 

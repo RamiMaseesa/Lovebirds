@@ -21,9 +21,14 @@ public class CoinsText : MonoBehaviour
 
         UpdateCoinsUI();
 
-        if (pijltje.points == 10)
+        if (pijltje.points == 20)//
         {
-            print("You won!");
+            FindFirstObjectByType<WinOrLoseEffect>().ActivateWin();
+            FindFirstObjectByType<WinOrLoseEffect>().StartWinSong();
+            FindFirstObjectByType<RandomBird>().DeleteAllBirds();
+            FindFirstObjectByType<ActivateBarPlayer>().DisableBar();
+            Destroy(FindFirstObjectByType<Timer>().gameObject);
+            Destroy(this);
         }
     }
 

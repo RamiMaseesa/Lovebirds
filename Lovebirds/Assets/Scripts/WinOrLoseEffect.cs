@@ -27,7 +27,11 @@ public class WinOrLoseEffect : MonoBehaviour {
     private void Start() {
         sc = GetComponent<RainAndLightning>();
         audioSource = GetComponent<AudioSource>();
+    }
 
+    public void StartWinSong() {
+        audioSource.clip = music[0];
+        audioSource.Play();
     }
 
     public void ActivateWin() {
@@ -47,11 +51,12 @@ public class WinOrLoseEffect : MonoBehaviour {
         MoveTo(new Vector3(0.129999995f, 6.07999992f, 0), 7f, winObjects[5]);
 
         won = true;
+
+
     }
 
     public void ActivateLose() {
-        audioSource.clip = music[1];
-        audioSource.Play();
+        audioSource.PlayOneShot(music[1]);
         loseObjectsEmpty.SetActive(true);
 
         MoveTo(new Vector3(0, -13.1f, .8f), 30f, loseText);
@@ -81,7 +86,6 @@ public class WinOrLoseEffect : MonoBehaviour {
         if (loseTime < 5) return;
         MoveTo(new Vector3(5.48000002f, 1.69000006f, 0), 1f, loseObject[2]);
         MoveTo(new Vector3(-4.92000008f, 0.930000007f, 0), 1f, loseObject[3]);
-
 
     }
 

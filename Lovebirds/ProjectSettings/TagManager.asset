@@ -8,6 +8,8 @@ TagManager:
   - Red
   - TEST_PLAYER_TAG
   - BirdNPC
+  - player
+  - Bar
   layers:
   - Default
   - TransparentFX
