@@ -17,7 +17,7 @@ public class Buttons : MonoBehaviour
 
     public void Play()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("RamiScene");
     }
 
     public void Menu()
