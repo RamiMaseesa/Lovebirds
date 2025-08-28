@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cartoon-lightning-bolt-1_0: 3003363839823080265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
