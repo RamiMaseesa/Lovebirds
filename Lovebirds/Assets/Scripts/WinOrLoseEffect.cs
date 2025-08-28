@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem.Controls;
 
 public class WinOrLoseEffect : MonoBehaviour
 {
@@ -17,11 +18,13 @@ public class WinOrLoseEffect : MonoBehaviour
 
     // lose
     [SerializeField] GameObject[] loseObject;
+    private float loseTime = 0;
+    private bool failed = false;
 
     private void Start() {
         sc = GetComponent<RainAndLightning>();
         audioSource = GetComponent<AudioSource>();
-        ActivateWin();
+        ActivateLose();
     }
 
     public void ActivateWin() {
@@ -42,16 +45,37 @@ public class WinOrLoseEffect : MonoBehaviour
     }
 
     public void ActivateLose() {
-        audioSource.clip = music[0];
+        audioSource.clip = music[1];
         audioSource.Play();
         loseObjectsEmpty.SetActive(true);
 
         MoveTo(new Vector3(0, -13.1f, .8f), 30f, loseText);
+
+        MoveTo(new Vector3(-6.96999979f, 3.63000011f, 0), 5f, loseObject[0]);
+        MoveTo(new Vector3(7.5999999f, 4.07000017f, 0), 7f, loseObject[1]);
+
+        MoveTo(new Vector3(-7.28999996f, -2.6099999f, 0), 5f, loseObject[4]);
+        MoveTo(new Vector3(7.5f, -2.88000011f, 0), 7f, loseObject[5]);
+
+
+
+        failed = true;
+
+    }
+
+    private void Update() {
+        if (!failed) return;
+
+        loseTime += Time.deltaTime;
+        if (loseTime < 5) return;
+        MoveTo(new Vector3(5.48000002f, 1.69000006f, 0), 1f, loseObject[2]);
+        MoveTo(new Vector3(-4.92000008f, 0.930000007f, 0), 1f, loseObject[3]);
     }
 
     public void MoveTo(Vector3 targetPosition, float duration, GameObject gameObject) {
         StartCoroutine(LerpPosition(targetPosition, duration, gameObject));
     }
+
 
     private IEnumerator LerpPosition(Vector3 targetPosition, float duration, GameObject gameObject) {
         Vector3 startPosition = gameObject.transform.position;
