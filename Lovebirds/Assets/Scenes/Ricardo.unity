@@ -797,7 +797,7 @@ MonoBehaviour:
 
 
     Loop
-    op een vogel aff en begin je dans, om zo goed mogelijk te dansen moet je de spatie
+    op een vogel af en begin je dans, om zo goed mogelijk te dansen moet je de spatie
     in klikken wanneer je pijltje in het groen is.
 
 
@@ -806,7 +806,7 @@ MonoBehaviour:
 
 
     Om te
-    winnen moet je minstens 20 punten hebben binnen de tijd!'
+    winnen moet je minstens 10 punten hebben binnen de tijd!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
