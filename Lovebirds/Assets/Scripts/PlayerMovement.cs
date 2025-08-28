@@ -22,6 +22,23 @@ public class PlayerMovement : MonoBehaviour
         vertical = Input.GetAxisRaw("Vertical");
         rb.linearVelocity = new Vector3(playerSpeed * horizontal, vertical * playerSpeed);
         Flip();
+
+        if (gameObject.transform.position.y >= 3.7f)
+        {
+            gameObject.transform.position = new Vector2(gameObject.transform.position.x, 3.7f);
+        }
+        if (gameObject.transform.position.y <= -3.6f)
+        {
+            gameObject.transform.position = new Vector2(gameObject.transform.position.x, -3.6f);
+        }
+        if (gameObject.transform.position.x <= -8.08f)
+        {
+            gameObject.transform.position = new Vector2(-8.08f, gameObject.transform.position.y);
+        }
+        if (gameObject.transform.position.x >= 8.1f)
+        {
+            gameObject.transform.position = new Vector2(8.1f, gameObject.transform.position.y);
+        }
     }
 
     private void Flip() //De flip methode
