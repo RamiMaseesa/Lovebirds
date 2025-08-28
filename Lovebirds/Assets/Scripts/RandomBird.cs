@@ -15,7 +15,7 @@ public class RandomBird : MonoBehaviour
         SpawnBirds();
     }
     
-    private void SpawnBirds()
+    public void SpawnBirds()
     {
         for (int i = 0; i < 5; i++)
         {
@@ -35,4 +35,13 @@ public class RandomBird : MonoBehaviour
             Debug.Log(currentBirds[i]);
         }
     }
+
+    public void DeleteAllBirds() {
+
+        foreach (GameObject go in currentBirds) {
+            currentBirds.Remove(go);
+        }
+
+    }
+    
 }

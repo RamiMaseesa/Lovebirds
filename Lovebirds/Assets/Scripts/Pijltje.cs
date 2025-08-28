@@ -8,6 +8,7 @@ public class Pijltje1 : MonoBehaviour
     [SerializeField] float maxLinks;
     [SerializeField] float maxRechts;
     public int points;
+    private int fakePoint;
     private Rigidbody2D rb;
     float currentSpeed;
     bool spacePressed;
@@ -18,6 +19,7 @@ public class Pijltje1 : MonoBehaviour
         Application.targetFrameRate = 60;
         currentSpeed = speed;
         points = 0;
+        fakePoint = 0;
     }
 
     void Update()
@@ -38,6 +40,13 @@ public class Pijltje1 : MonoBehaviour
         {
             spacePressed = true;
         }
+
+        if (fakePoint == 3) { 
+            points++; 
+        }
+        else if (fakePoint < 0) {
+
+        }
     }
 
     private void OnTriggerStay2D(Collider2D collision) //While being on the object
@@ -46,7 +55,7 @@ public class Pijltje1 : MonoBehaviour
         {
             print("Red aanraak");
             print(points);
-            points--;
+            fakePoint--;
             spacePressed = false;
         }
 
@@ -54,7 +63,7 @@ public class Pijltje1 : MonoBehaviour
         {
             print("Green aanraak");
             print(points);
-            points++;
+            fakePoint++;
             spacePressed = false;
         }
 

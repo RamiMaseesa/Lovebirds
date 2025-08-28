@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1529055418592752510}
   - component: {fileID: -5196750426650449844}
   - component: {fileID: -711114715693694481}
+  - component: {fileID: -7919117487074252846}
   m_Layer: 0
   m_Name: BirdNPC-1Prefab
   m_TagString: BirdNPC
@@ -185,3 +186,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-7919117487074252846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2837688412341176398}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86591e7de91d614fb6f1a0d1469b7f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
