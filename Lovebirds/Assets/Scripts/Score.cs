@@ -27,6 +27,6 @@ public class CoinsText : MonoBehaviour
 
     void UpdateCoinsUI()
     {
-        coinsText.text = "" + pijltje.points;
+        coinsText.text = "Score: " + pijltje.points;
     }
 }
